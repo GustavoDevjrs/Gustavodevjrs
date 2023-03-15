@@ -1,8 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Nunes;I'm+20+years+old;I'm+from+Brazil;I+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B22222&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Nunes;I'm+20+years+old;I'm+from+Brazil;I+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <br>
 <br>
+<br>
+<br>
+
 <div> 
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvbPQXHVCLkmznqVBdHNsMZbMcrchVxKNnfvPkBvFkCtfPLdHhXbGVrWgBRpLzZgNqHRXq" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_gustavoln/?igshid=ZDdkNTZiNTM%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
