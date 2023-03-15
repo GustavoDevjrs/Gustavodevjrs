@@ -29,8 +29,11 @@
 	<img aling="center" alt="office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 	<img aling="center" alt="kalilinux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </div><br\>
+	<br/>
+	<br/>
+	<br/>
 
-<h4>Apaixonado por tecnologia</h4>
+<h4 align="left">Apaixonado por tecnologia</h4>
 	
 <p align="left"> 
 ➜ 💼 Atualmente trabalho com o auxilio de banco de dados, pesquisas e sistemas de desenvolvimentos básicos como estagiário<br/>
