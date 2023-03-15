@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B22222&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Nunes;I'm+20+years+old;I'm+from+Brazil;I+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9A9A9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Nunes;I'm+20+years+old;I'm+from+Brazil;I+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -15,7 +15,7 @@
 </div>
 <br>
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoDevjrs&show_icons=true&theme=radical)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoDevjrs&show_icons=true&theme=dark)
 
 <h2>Tecnologias que uso e estudo no meu dia</h2>
 
