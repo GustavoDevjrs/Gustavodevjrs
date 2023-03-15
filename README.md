@@ -1,11 +1,8 @@
 ### Olá! Eu sou o Gustavo Nunes 👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvbPQXHVCLkmznqVBdHNsMZbMcrchVxKNnfvPkBvFkCtfPLdHhXbGVrWgBRpLzZgNqHRXq)
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-nunes-b769a0239/)
-
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/gustavo-de-lima-nunes/)
-
 [![Udemy](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.udemy.com/user/gustavo-de-lima-nunes/)
 
 
