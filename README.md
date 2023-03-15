@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<div> 
+<div align="center"> 
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvbPQXHVCLkmznqVBdHNsMZbMcrchVxKNnfvPkBvFkCtfPLdHhXbGVrWgBRpLzZgNqHRXq" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_gustavoln/?igshid=ZDdkNTZiNTM%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.udemy.com/user/gustavo-de-lima-nunes/" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"></a>
@@ -15,7 +15,9 @@
 </div>
 <br>
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoDevjrs&show_icons=true&theme=dark)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoDevjrs&show_icons=true&count_private=true&hide_border=true&title_color=A9A9A9&icon_color=A9A9A9&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+ 
 
 <h2>Tecnologias que uso e estudo no meu dia</h2>
 
@@ -29,8 +31,10 @@
 </div><br\>
 
 <h4>Apaixonado por tecnologia</h4>
+	
+<p align="left"> 
+➜ 💼 Atualmente trabalho com o auxilio de banco de dados, pesquisas e sistemas de desenvolvimentos básicos como estagiário<br/>
+➜ 📚 Estudando Python e Kali Linux <br/>	
+	
+</p>
   
-➜ 💼 Atualmente trabalho com o auxilio de banco de dados, pesquisas e sistemas de desenvolvimentos básicos como estagiário
- <br>
-➜ 📚 Estudando Python e Kali Linux <br/>
-
