@@ -1,15 +1,17 @@
-### Olá! Eu sou o Gustavo Nunes 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<h3>Olá! Eu sou o Gustavo Nunes 👋</h3>
 
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvbPQXHVCLkmznqVBdHNsMZbMcrchVxKNnfvPkBvFkCtfPLdHhXbGVrWgBRpLzZgNqHRXq)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-nunes-b769a0239/)
-[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/gustavo-de-lima-nunes/)
-[![Udemy](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.udemy.com/user/gustavo-de-lima-nunes/)
+<div> 
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvbPQXHVCLkmznqVBdHNsMZbMcrchVxKNnfvPkBvFkCtfPLdHhXbGVrWgBRpLzZgNqHRXq" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_gustavoln/?igshid=ZDdkNTZiNTM%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.udemy.com/user/gustavo-de-lima-nunes/" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-nunes-b769a0239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<br>
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoDevjrs&show_icons=true&theme=radical)
 
-
-## Tecnologias que uso e estudo no meu dia
+<h2>Tecnologias que uso e estudo no meu dia</h2>
 
 <div style="display: inline_block"><br/>
 	<img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,8 +22,9 @@
 	<img aling="center" alt="kalilinux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </div><br\>
 
-#### Apaixonado por tecnologia.
-
-➜ 💼 Atualmente trabalho com o auxilio de banco de dados, pesquisas e sistemas de desenvolvimentos básicos como estagiário<br/>
+<h4>Apaixonado por tecnologia</h4>
+  
+➜ 💼 Atualmente trabalho com o auxilio de banco de dados, pesquisas e sistemas de desenvolvimentos básicos como estagiário
+ <br>
 ➜ 📚 Estudando Python e Kali Linux <br/>
-<br/>
+
