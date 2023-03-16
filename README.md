@@ -37,7 +37,7 @@
 	
 <p align="left"> 
 ➜ 💼 Atualmente trabalho com o auxilio de banco de dados, pesquisas e sistemas de desenvolvimentos básicos como estagiário<br/>
-➜ 📚 Estudando Python e Kali Linux <br/>	
+➜ 📚 Estudando Python e Kali Linux no momento<br/>	
 	
 </p>
   
