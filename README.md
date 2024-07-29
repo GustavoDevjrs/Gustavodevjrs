@@ -38,8 +38,8 @@
 <h4 align="left">Apaixonado por tecnologia</h4>
 	
 <p align="left"> 
-➜ 💼 Atualmente trabalho com o auxilio de banco de dados, pesquisas e sistemas de desenvolvimentos básicos como estagiário<br/>
-➜ 📚 Estudando Front-End no geral no momento<br/>	
+➜ 💼 Atualmente trabalho com o Microsoft 365, pesquisas e sistemas de desenvolvimentos básicos como estagiário<br/>
+➜ 📚 Estudando Cybersecurity e Full-Stack<br/>	
 	
 </p>
   
